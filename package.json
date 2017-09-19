@@ -1,0 +1,11 @@
+{
+  "name": "bcrypt-bench-js",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "author": "ari7",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
+  }
+}
